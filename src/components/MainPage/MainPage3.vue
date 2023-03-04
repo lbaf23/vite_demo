@@ -1,13 +1,12 @@
 <template>
   <div>
-    <el-button type="primary">Primary</el-button>
+    Main Page 3
   </div>
-
 </template>
 
 <script>
 export default {
-  name: "MainPage"
+  name: "MainPage3"
 }
 </script>
 

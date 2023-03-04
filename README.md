@@ -1,8 +1,10 @@
 # Vue 3 + Vite
 
-- [快速上手 | Vue.js (vuejs.org)](https://cn.vuejs.org/guide/quick-start.html)
-- [Vite | 下一代的前端工具链 (vitejs.dev)](https://cn.vitejs.dev/)
-- [一个 Vue 3 UI 框架 | Element Plus (gitee.io)](https://element-plus.gitee.io/zh-CN/)
+- [Vue.js (vuejs.org)](https://cn.vuejs.org/guide/quick-start.html)
+- [Vite (vitejs.dev)](https://cn.vitejs.dev/)
+- [Element Plus (gitee.io)](https://element-plus.gitee.io/zh-CN/)
+- [Vue Router (vuejs.org)](https://v3.router.vuejs.org/zh/)
+- [Axios (axios-http.cn)](https://www.axios-http.cn/docs/intro)
 
 
 ## install
