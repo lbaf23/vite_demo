@@ -23,3 +23,27 @@ cp .env.development .env.development.local
 ```bash
 npm run dev
 ```
+
+## Build
+
+### Docker
+
+- Nginx
+
+```bash
+docker build -t vite_demo .
+```
+
+
+- Linux
+> use host network
+```bash
+docker run --name vite_demo --network=host -d --rm vite_demo
+```
+
+- others
+> docker-desktop doesn't support host network
+```bash
+docker run --name vite_demo -p 5173:5173 -d --rm vite_demo
+```
+
